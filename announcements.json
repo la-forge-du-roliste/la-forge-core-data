@@ -1,0 +1,25 @@
+{
+  "featured": "news-se-0204",
+  "generatedAt": "2026-10-02T17:51:49.776Z",
+  "items": [
+    {
+      "action": {
+        "label": "Découvrir",
+        "url": ""
+      },
+      "actionLabel": "Découvrir",
+      "actionUrl": "",
+      "audience": "premium",
+      "content": "Smart Encounter 0.20.4 est disponible. Cette version améliore le générateur de rencontres et consolide son API publique.",
+      "id": "news-se-0204",
+      "image": null,
+      "module": "smart-encounter",
+      "moduleIcon": "https://raw.githubusercontent.com/la-forge-du-roliste/la-forge-core-data/main/media/modules/smart-encounter.png",
+      "publishedAt": "2026-10-01",
+      "summary": "Nouvelle version de Smart Encounter avec améliorations du générateur et de l’intégration La Forge.",
+      "title": "Smart Encounter 0.20.4",
+      "type": "release"
+    }
+  ],
+  "schema": 1
+}
