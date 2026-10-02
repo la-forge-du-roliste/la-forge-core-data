@@ -1,0 +1,171 @@
+{
+  "generatedAt": "2026-10-02T17:51:49.776Z",
+  "modules": [
+    {
+      "access": "gratuit",
+      "icon": "https://raw.githubusercontent.com/la-forge-du-roliste/la-forge-core-data/main/media/modules/smart-encounter.png",
+      "id": "smart-encounter",
+      "links": {
+        "documentation": "",
+        "foundry": "",
+        "github": "",
+        "patreon": ""
+      },
+      "name": "Smart Encounter",
+      "shortDescription": "Rencontres, vagues et automatisations intelligentes.",
+      "status": "développement",
+      "version": "0.20.4"
+    },
+    {
+      "access": "premium",
+      "icon": "https://raw.githubusercontent.com/la-forge-du-roliste/la-forge-core-data/main/media/modules/tabledeck.png",
+      "id": "tabledeck",
+      "links": {
+        "documentation": "",
+        "foundry": "",
+        "github": "",
+        "patreon": ""
+      },
+      "name": "TableDeck",
+      "shortDescription": "Centre de contrôle Stream Deck pour Foundry VTT.",
+      "status": "développement",
+      "version": "0.15.1"
+    },
+    {
+      "access": "premium",
+      "icon": "https://raw.githubusercontent.com/la-forge-du-roliste/la-forge-core-data/main/media/modules/persistent-zones.png",
+      "id": "persistent-zones",
+      "links": {
+        "documentation": "",
+        "foundry": "",
+        "github": "https://github.com/la-forge-du-roliste/persistent-zones",
+        "patreon": ""
+      },
+      "name": "Persistent Zones",
+      "shortDescription": "Zones persistantes, déclencheurs et automatisations de scène.",
+      "status": "conception",
+      "version": "0.2.0"
+    },
+    {
+      "access": "gratuit",
+      "icon": "https://raw.githubusercontent.com/la-forge-du-roliste/la-forge-core-data/main/media/modules/remote-action.png",
+      "id": "remote-action",
+      "links": {
+        "documentation": "",
+        "foundry": "",
+        "github": "https://github.com/la-forge-du-roliste/remote-action",
+        "patreon": ""
+      },
+      "name": "Remote Action",
+      "shortDescription": "Exécution distante et standardisée des actions La Forge.",
+      "status": "publié",
+      "version": "0.2.0"
+    },
+    {
+      "access": "gratuit",
+      "icon": "https://raw.githubusercontent.com/la-forge-du-roliste/la-forge-core-data/main/media/modules/internal-activities.png",
+      "id": "internal-activities",
+      "links": {
+        "documentation": "",
+        "foundry": "",
+        "github": "https://github.com/la-forge-du-roliste/internal-activities",
+        "patreon": ""
+      },
+      "name": "Internal Activities",
+      "shortDescription": "Activités internes étendues pour Foundry VTT.",
+      "status": "publié",
+      "version": "1.1.0"
+    },
+    {
+      "access": "membre",
+      "icon": "https://raw.githubusercontent.com/la-forge-du-roliste/la-forge-core-data/main/media/modules/secondary-aoe.png",
+      "id": "secondary-aoe",
+      "links": {
+        "documentation": "",
+        "foundry": "",
+        "github": "https://github.com/la-forge-du-roliste/foundryvtt-dnd5e-aoe-secondary",
+        "patreon": ""
+      },
+      "name": "Secondary AOE",
+      "shortDescription": "Gestion des zones d’effet secondaires.",
+      "status": "test",
+      "version": "0.1.1"
+    },
+    {
+      "access": "membre",
+      "icon": "https://raw.githubusercontent.com/la-forge-du-roliste/la-forge-core-data/main/media/modules/buff-on-trigger.png",
+      "id": "buff-on-trigger",
+      "links": {
+        "documentation": "",
+        "foundry": "",
+        "github": "https://github.com/la-forge-du-roliste/dnd5e-buff-on-trigger",
+        "patreon": ""
+      },
+      "name": "Buff on Trigger",
+      "shortDescription": "Application d’effets déclenchés par événements.",
+      "status": "développement",
+      "version": "1.0.0"
+    },
+    {
+      "access": "membre",
+      "icon": "https://raw.githubusercontent.com/la-forge-du-roliste/la-forge-core-data/main/media/modules/multi-hit.png",
+      "id": "multi-hit",
+      "links": {
+        "documentation": "",
+        "foundry": "",
+        "github": "https://github.com/la-forge-du-roliste/multi-hit-spell-lvl-scaler",
+        "patreon": ""
+      },
+      "name": "Multi-Hit",
+      "shortDescription": "Gestion améliorée des attaques multiples.",
+      "status": "développement",
+      "version": "0.1.2"
+    },
+    {
+      "access": "gratuit",
+      "icon": "https://raw.githubusercontent.com/la-forge-du-roliste/la-forge-core-data/main/media/modules/automatic-token-image.png",
+      "id": "automatic-token-image",
+      "links": {
+        "documentation": "",
+        "foundry": "",
+        "github": "https://github.com/la-forge-du-roliste/automatic-token-image",
+        "patreon": ""
+      },
+      "name": "Automatic Token Image",
+      "shortDescription": "Remplacement automatique des images de tokens.",
+      "status": "publié",
+      "version": "1.12.1"
+    },
+    {
+      "access": "gratuit",
+      "icon": "https://raw.githubusercontent.com/la-forge-du-roliste/la-forge-core-data/main/media/modules/purecanva.png",
+      "id": "purecanva",
+      "links": {
+        "documentation": "",
+        "foundry": "",
+        "github": "",
+        "patreon": ""
+      },
+      "name": "PureCanva",
+      "shortDescription": "Interface épurée adaptée aux écrans tactiles.",
+      "status": "publié",
+      "version": "0.1.0"
+    },
+    {
+      "access": "gratuit",
+      "icon": "https://raw.githubusercontent.com/la-forge-du-roliste/la-forge-core-data/main/media/modules/fr-module-pack.png",
+      "id": "fr-module-pack",
+      "links": {
+        "documentation": "",
+        "foundry": "",
+        "github": "https://github.com/la-forge-du-roliste/fr-module-pack",
+        "patreon": ""
+      },
+      "name": "FR Module Pack",
+      "shortDescription": "Traductions françaises centralisées pour les modules.",
+      "status": "maintenance",
+      "version": "1.1.2"
+    }
+  ],
+  "schema": 1
+}
