@@ -1,6 +1,6 @@
 {
   "featured": "news-se-0204",
-  "generatedAt": "2026-10-02T18:29:28.780Z",
+  "generatedAt": "2026-10-02T21:55:17.773Z",
   "items": [
     {
       "action": {
@@ -9,7 +9,7 @@
       },
       "actionLabel": "Découvrir",
       "actionUrl": "",
-      "audience": "premium",
+      "audience": "public",
       "content": "Smart Encounter 0.20.4 est disponible. Cette version améliore le générateur de rencontres et consolide son API publique.",
       "id": "news-se-0204",
       "image": null,
