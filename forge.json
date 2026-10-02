@@ -1,0 +1,25 @@
+{
+  "brand": {
+    "name": "La Forge du Rôliste"
+  },
+  "cache": {
+    "fallback": "last-known-good",
+    "strategy": "network-first"
+  },
+  "contract": "la-forge-core",
+  "endpoints": {
+    "announcements": "https://raw.githubusercontent.com/la-forge-du-roliste/la-forge-core-data/main/announcements.json",
+    "catalog": "https://raw.githubusercontent.com/la-forge-du-roliste/la-forge-core-data/main/catalog.json",
+    "development": "https://raw.githubusercontent.com/la-forge-du-roliste/la-forge-core-data/main/development.json"
+  },
+  "generatedAt": "2026-10-02T17:51:49.833Z",
+  "generatedBy": "La Forge Admin",
+  "links": {
+    "discord": "https://discord.gg/ZrzKvvxCf",
+    "github": "https://github.com/la-forge-du-roliste",
+    "patreon": "https://www.patreon.com/cw/LaForgeDuRoliste",
+    "youtube": "https://www.youtube.com/@LaForgeDuRoliste"
+  },
+  "schema": 1,
+  "schemaVersion": "1.0"
+}
