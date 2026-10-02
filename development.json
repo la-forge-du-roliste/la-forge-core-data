@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-10-02T17:51:49.776Z",
+  "modules": [
+    {
+      "description": "Amélioration du générateur, des séquences et de l’intégration TableDeck.",
+      "id": "smart-encounter",
+      "items": [
+        {
+          "status": "done",
+          "title": "Générateur"
+        },
+        {
+          "status": "done",
+          "title": "API publique"
+        },
+        {
+          "status": "current",
+          "title": "Séquences avancées"
+        },
+        {
+          "status": "todo",
+          "title": "Intégration TableDeck"
+        },
+        {
+          "status": "todo",
+          "title": "Documentation"
+        }
+      ],
+      "status": "en cours",
+      "title": "Smart Encounter"
+    },
+    {
+      "description": "Support multi-deck, profils et nouvelle page Rencontres.",
+      "id": "tabledeck",
+      "items": [
+        {
+          "status": "done",
+          "title": "Postes & profils"
+        },
+        {
+          "status": "current",
+          "title": "Multi-deck"
+        },
+        {
+          "status": "todo",
+          "title": "Intégration Smart Encounter"
+        }
+      ],
+      "status": "en cours",
+      "title": "TableDeck"
+    },
+    {
+      "description": "Migration et consolidation du moteur de zones et triggers.",
+      "id": "persistent-zones",
+      "items": [
+        {
+          "status": "current",
+          "title": "Architecture v14"
+        },
+        {
+          "status": "todo",
+          "title": "Profils de zones"
+        },
+        {
+          "status": "todo",
+          "title": "Intégration TableDeck"
+        }
+      ],
+      "status": "préparation",
+      "title": "Persistent Zones"
+    }
+  ],
+  "schema": 1
+}
