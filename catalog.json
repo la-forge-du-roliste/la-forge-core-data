@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T17:51:49.776Z",
+  "generatedAt": "2026-10-02T18:29:28.780Z",
   "modules": [
     {
       "access": "gratuit",
@@ -13,7 +13,7 @@
       },
       "name": "Smart Encounter",
       "shortDescription": "Rencontres, vagues et automatisations intelligentes.",
-      "status": "développement",
+      "status": "bientôt disponible",
       "version": "0.20.4"
     },
     {
