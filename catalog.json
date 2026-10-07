@@ -89,7 +89,8 @@
       "name": "Secondary AOE",
       "shortDescription": "Gestion des zones d’effet secondaires.",
       "status": "test",
-      "version": "0.1.1"
+      "version": "0.1.1",
+      "packageId": "foundryvtt-dnd5e-aoe-secondary"
     },
     {
       "access": "membre",
@@ -104,7 +105,8 @@
       "name": "Buff on Trigger",
       "shortDescription": "Application d’effets déclenchés par événements.",
       "status": "développement",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "packageId": "dnd5e-buff-on-trigger"
     },
     {
       "access": "membre",
@@ -119,7 +121,8 @@
       "name": "Multi-Hit",
       "shortDescription": "Gestion améliorée des attaques multiples.",
       "status": "développement",
-      "version": "0.1.2"
+      "version": "0.1.2",
+      "packageId": "multi-hit-spell-lvl-scaler"
     },
     {
       "access": "gratuit",
