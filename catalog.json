@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T22:10:48.795Z",
+  "generatedAt": "2026-10-10T07:16:41.149Z",
   "modules": [
     {
       "access": "gratuit",
@@ -89,8 +89,7 @@
       "name": "Secondary AOE",
       "shortDescription": "Gestion des zones d’effet secondaires.",
       "status": "test",
-      "version": "0.1.1",
-      "packageId": "foundryvtt-dnd5e-aoe-secondary"
+      "version": "0.1.1"
     },
     {
       "access": "membre",
@@ -105,8 +104,7 @@
       "name": "Buff on Trigger",
       "shortDescription": "Application d’effets déclenchés par événements.",
       "status": "développement",
-      "version": "1.0.0",
-      "packageId": "dnd5e-buff-on-trigger"
+      "version": "1.0.0"
     },
     {
       "access": "membre",
@@ -121,8 +119,7 @@
       "name": "Multi-Hit",
       "shortDescription": "Gestion améliorée des attaques multiples.",
       "status": "développement",
-      "version": "0.1.2",
-      "packageId": "multi-hit-spell-lvl-scaler"
+      "version": "0.1.2"
     },
     {
       "access": "gratuit",
@@ -168,6 +165,16 @@
       "shortDescription": "Traductions françaises centralisées pour les modules.",
       "status": "maintenance",
       "version": "1.1.2"
+    },
+    {
+      "access": "gratuit",
+      "icon": null,
+      "id": "table-landing",
+      "links": {},
+      "name": "Table Landing",
+      "shortDescription": "",
+      "status": "idée",
+      "version": "0.1.0"
     }
   ],
   "schema": 1
